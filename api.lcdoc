@@ -1,0 +1,19 @@
+Library: community.livecode.pgmcclernan.tennotchknob
+
+Type: widget
+
+Description: This widget displays an pseudo-Knob Control that has 10 states.
+
+Name: notchNum
+
+Type: property
+
+Syntax: set the notchNum
+
+Summary: Set the fill amount to [ 0 to 10 ]
+
+Example: 	set the notchNum of me to 7
+
+Description: Set the amount to fill in +1 increments [ 0 to 10 ]
+
+
