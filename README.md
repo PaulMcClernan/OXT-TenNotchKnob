@@ -1,2 +1,2 @@
-# community.livecode.pgmcclernan.tennotchknob
-A Knob Control LiveCode Widget with 10 states
+# Ten Notch Knob
+A Knob Control Builder Widget with 10 states
